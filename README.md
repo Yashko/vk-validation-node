@@ -8,7 +8,7 @@ https://new.vk.com/dev/need_validation
    { error_code: 17,
      error_msg: 'Validation required: please open redirect_uri in browser 123456',
      request_params: [ [Object], [Object], [Object], [Object], [Object] ],
-     redirect_uri: 'https://m.vk.com/login?act=security_check&api_hash=**qwerty123456**' } }
+     redirect_uri: 'https://m.vk.com/login?act=security_check&api_hash=qwerty123456' } }
 ```
      
 # Инструкция
