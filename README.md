@@ -19,4 +19,4 @@ https://new.vk.com/dev/need_validation
 
 **api_hash в redirect_uri одноразовый, поэтому если уже открыли эту ссылку где либо, то для запуска скрипта надо получить новый redirect_uri**
 
-Если понадобится помощь, пишите в вк http://vk.com/qswag
+Если понадобится помощь, пишите в telegram http://t.me/yashko
